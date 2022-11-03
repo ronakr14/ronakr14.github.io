@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ronak Portfolio</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Ronak Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Nov 2022 11:10:15 +0530</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CouchDB</title>
+      <link>/tags/couchdb/</link>
+      <pubDate>Thu, 03 Nov 2022 11:10:15 +0530</pubDate>
+      
+      <guid>/tags/couchdb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Express.js</title>
+      <link>/tags/express.js/</link>
+      <pubDate>Thu, 03 Nov 2022 11:10:15 +0530</pubDate>
+      
+      <guid>/tags/express.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>/tags/javascript/</link>
+      <pubDate>Thu, 03 Nov 2022 11:10:15 +0530</pubDate>
+      
+      <guid>/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Node.js</title>
+      <link>/tags/node.js/</link>
+      <pubDate>Thu, 03 Nov 2022 11:10:15 +0530</pubDate>
+      
+      <guid>/tags/node.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colab</title>
+      <link>/tags/colab/</link>
+      <pubDate>Thu, 03 Nov 2022 11:00:29 +0530</pubDate>
+      
+      <guid>/tags/colab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaggle</title>
+      <link>/tags/kaggle/</link>
+      <pubDate>Thu, 03 Nov 2022 11:00:29 +0530</pubDate>
+      
+      <guid>/tags/kaggle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AWS EC2</title>
+      <link>/tags/aws-ec2/</link>
+      <pubDate>Tue, 01 Nov 2022 23:23:55 +0530</pubDate>
+      
+      <guid>/tags/aws-ec2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>/tags/docker/</link>
+      <pubDate>Tue, 01 Nov 2022 23:23:55 +0530</pubDate>
+      
+      <guid>/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intruder</title>
+      <link>/tags/intruder/</link>
+      <pubDate>Tue, 01 Nov 2022 23:23:55 +0530</pubDate>
+      
+      <guid>/tags/intruder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Tue, 01 Nov 2022 23:23:55 +0530</pubDate>
+      
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Detection</title>
+      <link>/tags/network-detection/</link>
+      <pubDate>Tue, 01 Nov 2022 23:23:55 +0530</pubDate>
+      
+      <guid>/tags/network-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>/tags/python/</link>
+      <pubDate>Tue, 01 Nov 2022 23:23:55 +0530</pubDate>
+      
+      <guid>/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academics</title>
+      <link>/tags/academics/</link>
+      <pubDate>Tue, 01 Nov 2022 19:45:33 +0530</pubDate>
+      
+      <guid>/tags/academics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Achievements</title>
+      <link>/tags/achievements/</link>
+      <pubDate>Tue, 01 Nov 2022 19:45:33 +0530</pubDate>
+      
+      <guid>/tags/achievements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>/tags/experience/</link>
+      <pubDate>Tue, 01 Nov 2022 19:45:33 +0530</pubDate>
+      
+      <guid>/tags/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extra Curricular</title>
+      <link>/tags/extra-curricular/</link>
+      <pubDate>Tue, 01 Nov 2022 19:45:33 +0530</pubDate>
+      
+      <guid>/tags/extra-curricular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hobbies</title>
+      <link>/tags/hobbies/</link>
+      <pubDate>Tue, 01 Nov 2022 19:45:33 +0530</pubDate>
+      
+      <guid>/tags/hobbies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/tags/projects/</link>
+      <pubDate>Tue, 01 Nov 2022 19:45:33 +0530</pubDate>
+      
+      <guid>/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical Skills</title>
+      <link>/tags/technical-skills/</link>
+      <pubDate>Tue, 01 Nov 2022 17:11:12 +0530</pubDate>
+      
+      <guid>/tags/technical-skills/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

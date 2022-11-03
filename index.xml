@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ronak Portfolio</title>
+    <link>/</link>
+    <description>Recent content on Ronak Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Nov 2022 11:10:15 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Feedback Form</title>
+      <link>/extra/feedback/</link>
+      <pubDate>Thu, 03 Nov 2022 11:10:15 +0530</pubDate>
+      
+      <guid>/extra/feedback/</guid>
+      <description>This article will be published soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Kaggle Connectivity to Colab</title>
+      <link>/blogs/kaggle/</link>
+      <pubDate>Thu, 03 Nov 2022 11:00:29 +0530</pubDate>
+      
+      <guid>/blogs/kaggle/</guid>
+      <description>This article will be published soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Network Intrusion Detection System V0.1</title>
+      <link>/projects/nids/</link>
+      <pubDate>Tue, 01 Nov 2022 23:23:55 +0530</pubDate>
+      
+      <guid>/projects/nids/</guid>
+      <description>A binary classification machine learning model for Intrusion Detection System. A special thanks to Satish Kamble.
+Abstract This is a binary classification machine learning model to identify the user on our network system and classify them into benign and malign categories. As we all know every network whether it is private or public are susceptible to attacks which prevent the normal flow of traffic on networks. The main purpose to develop this model is to safeguard private as well as public network and to alert the administrator of possible harm in future Tools and Platforms Editors- Jupyter, Nano Language - Python Libraries - Sklearn, Pandas, Numpy, Matplotlib, Seaborn, Pickle Deployment - AWS EC2, Docker, Python-Flask Browser- any Data Collection Dataset- Kaggle Exploratory Data Analysis Feature Selection Algorithms Evaluation Deployment </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Tue, 01 Nov 2022 19:45:33 +0530</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Let&amp;rsquo;s have a glance at my life till now !!!
+I am an analytical thinker who leverages problem-solving skills to drive continuous improvement. I works cross-functionally to adapt systems to changing business needs and formulate winning solutions.
+Employment History 1. Radhe Industries Position: CAD Designer Duration: March 2019 – July 2021, Location: Pune Used CAD software to develop dynamic 2D and 3D designs, improving quality, level and productivity. 2. Spectrum Consultants Pvt.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>/skills/</link>
+      <pubDate>Tue, 01 Nov 2022 17:11:12 +0530</pubDate>
+      
+      <guid>/skills/</guid>
+      <description>This page describes all my technical skills related to data science portfolio. All the languages, tools, technologies, libraries, frameworks, editors, operating systems.
+Languages Big Data Technologies Databases Cloud Technologies Containers Machine Learning Visualization Tools Editors Others Linux Related Python Related JavaScript Related </description>
+    </item>
+    
+    <item>
+      <title>Image Gallery</title>
+      <link>/gallery/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+      
+      <guid>/gallery/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

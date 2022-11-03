@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on Ronak Portfolio</title>
+    <link>/tags/docker/</link>
+    <description>Recent content in Docker on Ronak Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Nov 2022 23:23:55 +0530</lastBuildDate><atom:link href="/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network Intrusion Detection System V0.1</title>
+      <link>/projects/nids/</link>
+      <pubDate>Tue, 01 Nov 2022 23:23:55 +0530</pubDate>
+      
+      <guid>/projects/nids/</guid>
+      <description>A binary classification machine learning model for Intrusion Detection System. A special thanks to Satish Kamble.
+Abstract This is a binary classification machine learning model to identify the user on our network system and classify them into benign and malign categories. As we all know every network whether it is private or public are susceptible to attacks which prevent the normal flow of traffic on networks. The main purpose to develop this model is to safeguard private as well as public network and to alert the administrator of possible harm in future Tools and Platforms Editors- Jupyter, Nano Language - Python Libraries - Sklearn, Pandas, Numpy, Matplotlib, Seaborn, Pickle Deployment - AWS EC2, Docker, Python-Flask Browser- any Data Collection Dataset- Kaggle Exploratory Data Analysis Feature Selection Algorithms Evaluation Deployment </description>
+    </item>
+    
+  </channel>
+</rss>
