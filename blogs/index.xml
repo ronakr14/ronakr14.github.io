@@ -6,14 +6,18 @@
     <description>Recent content in Blogs on Ronak Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Nov 2022 11:00:29 +0530</lastBuildDate><atom:link href="/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Nov 2022 00:27:03 +0530</lastBuildDate><atom:link href="/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kaggle Connectivity to Colab</title>
       <link>/blogs/kaggle/</link>
-      <pubDate>Thu, 03 Nov 2022 11:00:29 +0530</pubDate>
+      <pubDate>Mon, 07 Nov 2022 00:27:03 +0530</pubDate>
       
       <guid>/blogs/kaggle/</guid>
-      <description>This article will be published soon&amp;hellip;</description>
+      <description>In this article I will show steps to load kaggle dataset directly to google colab.
+Prerequisite: Colab Kaggle Dataset Step 1 Select the dataset to load into colab.
+Step 2: You need authentication from kaggle services to download dataset. Now, you need to download API token.
+This token can be easily generated from the profile section of your Kaggle account. Simply, navigate to your Kaggle profile and then
+select account &amp;ndash;&amp;gt; find API section &amp;ndash;&amp;gt; create new API token</description>
     </item>
     
   </channel>

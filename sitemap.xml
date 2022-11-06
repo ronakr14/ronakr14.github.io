@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blogs/</loc>
+    <lastmod>2022-11-07T00:27:03+05:30</lastmod>
+  </url><url>
+    <loc>/tags/colab/</loc>
+    <lastmod>2022-11-07T00:27:03+05:30</lastmod>
+  </url><url>
+    <loc>/tags/kaggle/</loc>
+    <lastmod>2022-11-07T00:27:03+05:30</lastmod>
+  </url><url>
+    <loc>/blogs/kaggle/</loc>
+    <lastmod>2022-11-07T00:27:03+05:30</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-11-07T00:27:03+05:30</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-11-07T00:27:03+05:30</lastmod>
+  </url><url>
     <loc>/tags/couchdb/</loc>
     <lastmod>2022-11-03T11:10:15+05:30</lastmod>
   </url><url>
@@ -19,24 +37,6 @@
   </url><url>
     <loc>/tags/node.js/</loc>
     <lastmod>2022-11-03T11:10:15+05:30</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2022-11-03T11:10:15+05:30</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-11-03T11:10:15+05:30</lastmod>
-  </url><url>
-    <loc>/blogs/</loc>
-    <lastmod>2022-11-03T11:00:29+05:30</lastmod>
-  </url><url>
-    <loc>/tags/colab/</loc>
-    <lastmod>2022-11-03T11:00:29+05:30</lastmod>
-  </url><url>
-    <loc>/tags/kaggle/</loc>
-    <lastmod>2022-11-03T11:00:29+05:30</lastmod>
-  </url><url>
-    <loc>/blogs/kaggle/</loc>
-    <lastmod>2022-11-03T11:00:29+05:30</lastmod>
   </url><url>
     <loc>/tags/aws-ec2/</loc>
     <lastmod>2022-11-01T23:23:55+05:30</lastmod>

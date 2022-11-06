@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Ronak Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Nov 2022 11:10:15 +0530</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Nov 2022 00:27:03 +0530</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Colab</title>
+      <link>/tags/colab/</link>
+      <pubDate>Mon, 07 Nov 2022 00:27:03 +0530</pubDate>
+      
+      <guid>/tags/colab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaggle</title>
+      <link>/tags/kaggle/</link>
+      <pubDate>Mon, 07 Nov 2022 00:27:03 +0530</pubDate>
+      
+      <guid>/tags/kaggle/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>CouchDB</title>
       <link>/tags/couchdb/</link>
@@ -40,24 +58,6 @@
       <pubDate>Thu, 03 Nov 2022 11:10:15 +0530</pubDate>
       
       <guid>/tags/node.js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Colab</title>
-      <link>/tags/colab/</link>
-      <pubDate>Thu, 03 Nov 2022 11:00:29 +0530</pubDate>
-      
-      <guid>/tags/colab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kaggle</title>
-      <link>/tags/kaggle/</link>
-      <pubDate>Thu, 03 Nov 2022 11:00:29 +0530</pubDate>
-      
-      <guid>/tags/kaggle/</guid>
       <description></description>
     </item>
     

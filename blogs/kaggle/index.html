@@ -31,8 +31,8 @@
 <meta property="og:description" content="Connecting kaggle and colab." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="/blogs/kaggle/" /><meta property="article:section" content="blogs" />
-<meta property="article:published_time" content="2022-11-03T11:00:29+05:30" />
-<meta property="article:modified_time" content="2022-11-03T11:00:29+05:30" /><meta property="og:site_name" content="Data Science Portfolio" />
+<meta property="article:published_time" content="2022-11-07T00:27:03+05:30" />
+<meta property="article:modified_time" content="2022-11-07T00:27:03+05:30" /><meta property="og:site_name" content="Data Science Portfolio" />
 
 
 <meta name="twitter:card" content="summary"/>
@@ -238,12 +238,55 @@ Kaggle Connectivity to Colab | Ronak Portfolio
             <div class="text-center">
               Ronak Rathore 
               <small>|</small>
-              Nov 3, 2022
+              Nov 7, 2022
             </div>
           </div>
           
+          <div class="featured-image">
+            <img class="img-fluid" src="/blogs/kaggle/cover.png" alt="Kaggle Connectivity to Colab">
+          </div>
+          
           <article class="page-content  p-2">
-          <p>This article will be published soon&hellip;</p>
+          <p>In this article I will show steps to load kaggle dataset directly to google colab.</p>
+<h4 id="prerequisite"><strong>Prerequisite:</strong></h4>
+<ul>
+<li>Colab</li>
+<li>Kaggle Dataset</li>
+</ul>
+<h4 id="step-1">Step 1</h4>
+<p>Select the dataset to load into colab.</p>
+<h4 id="step-2">Step 2:</h4>
+<p>You need authentication from kaggle services to download dataset. Now, you need to download API token.<br>
+This token can be easily generated from the profile section of your Kaggle account. Simply, navigate to your Kaggle profile and then<br>
+   select account &ndash;&gt; find API section &ndash;&gt; create new API token</p>
+<p>A file named as kaggle.json will be downloaded on your local machine.</p>
+<h4 id="step-3">Step 3:</h4>
+<p>Set up your colab notebook and upload kaggle.json which was downloaded in step 2  to it.<br>
+Now install Kaggle Library, make .kaggle directory, copy kaggle.json to it, change its permission.</p>
+<blockquote>
+<p>! pip install kaggle \</p>
+<p>! mkdir ~/.kaggle \</p>
+<p>! cp kaggle.json ~/.kaggle/ \</p>
+<p>! chmod 600 ~/.kaggle/kaggle.json</p>
+</blockquote>
+<h4 id="step-4">Step 4:</h4>
+<p>Now you just need to download dataset. There are two types of datasets:</p>
+<ol>
+<li>Competitions</li>
+<li>Datasets</li>
+</ol>
+<p>Downloading Competitions dataset:</p>
+<blockquote>
+<p>! kaggle competitons download &laquo;name-of-competition&raquo;</p>
+</blockquote>
+<p>Downloading Datasets:</p>
+<blockquote>
+<p>! kaggle datasets download &laquo;name-of-dataset&raquo;</p>
+</blockquote>
+<p>In case dataset is downloaded as zip extension, you can simply use unzip command of linux:</p>
+<blockquote>
+<p>! unzip &laquo;name-of-file&raquo;</p>
+</blockquote>
 
           </article>
         </div>
@@ -256,7 +299,15 @@ Kaggle Connectivity to Colab | Ronak Portfolio
                 Table Of Contents
               </h5>
               <div class="toc-content">
-                <nav id="TableOfContents"></nav>
+                <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
               </div>
           </aside>
           
@@ -344,11 +395,14 @@ Kaggle Connectivity to Colab | Ronak Portfolio
                         <h5 class="card-title bg-transparent" title="Kaggle Connectivity to Colab">Kaggle Connectivity to …</h5>
                     </a>
                     <div class="card-text secondary-font">
-                        <p>This article will be published soon&hellip;</p>
+                        <p>In this article I will show steps to load kaggle dataset directly to google colab.
+Prerequisite: Colab Kaggle Dataset Step 1 Select the dataset to load into colab.
+Step 2: You need authentication from kaggle services to download dataset. Now, you need to download API token.
+This token can be easily …</p>
                     </div>
                 </div>
                 <div class="mt-auto card-footer">
-                    <span class="float-start">November 3, 2022</span>
+                    <span class="float-start">November 7, 2022</span>
                     <a href="/blogs/kaggle/" class="float-end btn btn-outline-info btn-sm">Read</a>
                 </div>
             </div>
