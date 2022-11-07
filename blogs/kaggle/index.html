@@ -248,28 +248,35 @@ Kaggle Connectivity to Colab | Ronak Portfolio
           
           <article class="page-content  p-2">
           <p>In this article I will show steps to load kaggle dataset directly to google colab.</p>
-<h4 id="prerequisite"><strong>Prerequisite:</strong></h4>
+<h2 id="prerequisite">Prerequisite</h2>
 <ul>
 <li>Colab</li>
 <li>Kaggle Dataset</li>
 </ul>
-<h4 id="step-1">Step 1</h4>
-<p>Select the dataset to load into colab.</p>
-<h4 id="step-2">Step 2:</h4>
+<h2 id="steps">Steps</h2>
+<h3 id="1-choose-dataset">1. Choose Dataset</h3>
+<p>Select the dataset to load into colab. I will be using <a href="https://www.kaggle.com/datasets/thedevastator/30000-booking-com-reviews-for-hotels-worldwide">Reviews for Hotels Worldwide (Booking.com)</a></p>
+<p align="center"><img src="/blogs/kaggle/1.png" width="750" height="152"><p>
+<h3 id="2-api-token">2. API Token</h3>
 <p>You need authentication from kaggle services to download dataset. Now, you need to download API token.<br>
 This token can be easily generated from the profile section of your Kaggle account. Simply, navigate to your Kaggle profile and then<br>
    select account &ndash;&gt; find API section &ndash;&gt; create new API token</p>
+<p align="center"><img src="/blogs/kaggle/2.png" width="300" height="194"><p>
+<p align="center"><img src="/blogs/kaggle/3.png" width="750" height="61" ><p>
+<p align="center"><img src="/blogs/kaggle/4.png" width="750" height="91" ><p>
 <p>A file named as kaggle.json will be downloaded on your local machine.</p>
-<h4 id="step-3">Step 3:</h4>
-<p>Set up your colab notebook and upload kaggle.json which was downloaded in step 2  to it.<br>
-Now install Kaggle Library, make .kaggle directory, copy kaggle.json to it, change its permission.</p>
+<h3 id="3-colab-notebook">3. Colab Notebook</h3>
+<p>Set up your colab notebook and upload kaggle.json which was downloaded in step 2  to it.</p>
+<p align="center"><img src="/blogs/kaggle/5.png" width="300" height="271" ><p>
+<p>Now install Kaggle Library, make .kaggle directory, copy kaggle.json to it, change its permission.</p>
 <blockquote>
 <p>! pip install kaggle \</p>
 <p>! mkdir ~/.kaggle \</p>
 <p>! cp kaggle.json ~/.kaggle/ \</p>
 <p>! chmod 600 ~/.kaggle/kaggle.json</p>
 </blockquote>
-<h4 id="step-4">Step 4:</h4>
+<p align="center"><img src="/blogs/kaggle/6.png" width="750" height="298" ><p>
+<h3 id="4-download-data">4. Download data</h3>
 <p>Now you just need to download dataset. There are two types of datasets:</p>
 <ol>
 <li>Competitions</li>
@@ -283,6 +290,8 @@ Now install Kaggle Library, make .kaggle directory, copy kaggle.json to it, chan
 <blockquote>
 <p>! kaggle datasets download &laquo;name-of-dataset&raquo;</p>
 </blockquote>
+<p>for example:</p>
+<p align="center"><img src="/blogs/kaggle/7.png" width="750" height="100" ><p>
 <p>In case dataset is downloaded as zip extension, you can simply use unzip command of linux:</p>
 <blockquote>
 <p>! unzip &laquo;name-of-file&raquo;</p>
@@ -301,9 +310,13 @@ Now install Kaggle Library, make .kaggle directory, copy kaggle.json to it, chan
               <div class="toc-content">
                 <nav id="TableOfContents">
   <ul>
-    <li>
+    <li><a href="#prerequisite">Prerequisite</a></li>
+    <li><a href="#steps">Steps</a>
       <ul>
-        <li></li>
+        <li><a href="#1-choose-dataset">1. Choose Dataset</a></li>
+        <li><a href="#2-api-token">2. API Token</a></li>
+        <li><a href="#3-colab-notebook">3. Colab Notebook</a></li>
+        <li><a href="#4-download-data">4. Download data</a></li>
       </ul>
     </li>
   </ul>
@@ -396,9 +409,8 @@ Now install Kaggle Library, make .kaggle directory, copy kaggle.json to it, chan
                     </a>
                     <div class="card-text secondary-font">
                         <p>In this article I will show steps to load kaggle dataset directly to google colab.
-Prerequisite: Colab Kaggle Dataset Step 1 Select the dataset to load into colab.
-Step 2: You need authentication from kaggle services to download dataset. Now, you need to download API token.
-This token can be easily …</p>
+Prerequisite Colab Kaggle Dataset Steps 1. Choose Dataset Select the dataset to load into colab. I will be using Reviews for Hotels Worldwide (Booking.com)
+2. API Token You need authentication from kaggle services to …</p>
                     </div>
                 </div>
                 <div class="mt-auto card-footer">
