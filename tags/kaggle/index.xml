@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaggle on Ronak Portfolio</title>
+    <link>/tags/kaggle/</link>
+    <description>Recent content in Kaggle on Ronak Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Jun 2023 20:48:43 +0530</lastBuildDate><atom:link href="/tags/kaggle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kaggle Connectivity to Colab</title>
+      <link>/blogs/kaggle-colab/</link>
+      <pubDate>Sat, 24 Jun 2023 20:48:43 +0530</pubDate>
+      
+      <guid>/blogs/kaggle-colab/</guid>
+      <description>I&amp;rsquo;ll outline how to upload a Kaggle dataset straight to Google Colab in this article.
+Prerequisite Colab Kaggle Dataset Steps: 1. Choose Dataset Pick the dataset you want to import into CoLab. I will be using Reviews for Hotels Worldwide (Booking.com)
+2. API Token To download a dataset, kaggle services require authentication. You must now download an API token.
+You may quickly generate this token from your Kaggle account&amp;rsquo;s profile page.</description>
+    </item>
+    
+  </channel>
+</rss>

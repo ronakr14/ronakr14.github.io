@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Skills on Ronak Portfolio</title>
+    <link>/tags/technical-skills/</link>
+    <description>Recent content in Technical Skills on Ronak Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Jun 2023 08:44:35 +0530</lastBuildDate><atom:link href="/tags/technical-skills/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skills</title>
+      <link>/skills/</link>
+      <pubDate>Fri, 23 Jun 2023 08:44:35 +0530</pubDate>
+      
+      <guid>/skills/</guid>
+      <description>All of my technical competencies connected to my data science portfolio are described on this page. All the operating systems, tools, technologies, libraries, frameworks, and tools.
+Languages Big Data Technologies Databases Cloud Technologies Containers Machine Learning Visualization Tools Editors Others Linux Related Python Related JavaScript Related </description>
+    </item>
+    
+  </channel>
+</rss>

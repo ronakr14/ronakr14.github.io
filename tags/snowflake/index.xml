@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Snowflake on Ronak Portfolio</title>
+    <link>/tags/snowflake/</link>
+    <description>Recent content in Snowflake on Ronak Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Jun 2023 20:23:04 +0530</lastBuildDate><atom:link href="/tags/snowflake/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Certificates</title>
+      <link>/certificates/</link>
+      <pubDate>Sat, 24 Jun 2023 20:23:04 +0530</pubDate>
+      
+      <guid>/certificates/</guid>
+      <description>All of the certificates I have earned or intend to earn are included on this page.</description>
+    </item>
+    
+  </channel>
+</rss>
