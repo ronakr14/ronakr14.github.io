@@ -345,19 +345,136 @@ Network Intrusion Detection System V0.1 | Ronak Portfolio
 </ul>
 <hr>
 <h2 id="data-collection">Data Collection</h2>
+<p>An extensive dataset available on kaggle that combines all of the datasets previously described in: <a href="https://staff.itee.uq.edu.au/marius/NIDS_datasets/#RA5">https://staff.itee.uq.edu.au/marius/NIDS_datasets/#RA5</a></p>
+<p>The DoS category&rsquo;s parent name has been given to the assaults formerly known as DoS attacks-Hulk, DoS attacks-SlowHTTPTest, DoS attacks-GoldenEye, and DoS attacks-Slowloris. DDoS has been used to refer to attacks formerly known as DDOS attack-LOIC-UDP, DDOS attack-HOIC, and DDoS attack-LOIC-HTTP. Brute-force attacks include those with the names FTP-BruteForce, SSH-BruteForce, Brute Force -Web, and Brute Force -XSS. Lastly, SQL Injection attacks have been added to the category of injection attacks.</p>
+<p>11,994,893 entries make up the NF-UQ-NIDS dataset, of which 2,786,845 (23.23%) are attacks and 9,208,048 (76.77%) are benign flows.</p>
 <ul>
-<li>Dataset - Kaggle</li>
+<li>Kaggle Link - <a href="https://www.kaggle.com/datasets/aryashah2k/nfuqnidsv2-network-intrusion-detection-dataset">NF-UQ-NIDS-v2</a></li>
 </ul>
 <hr>
 <h2 id="exploratory-data-analysis">Exploratory Data Analysis</h2>
+<p>Exploratory data analysis is the crucial process of doing first investigations on data in order to identify patterns, find anomalies, test hypotheses, and double-check assumptions using summary statistics and graphical representations.</p>
+<table>
+<tr>
+<td>
+<ol>
+<li>Numerical column description.</li>
+<li>Count plot on target column.</li>
+<li>Skewness and Kurtosis.</li>
+<li>Histogram.</li>
+</ol>
+</td>
+<td>
+<ol start="5">
+<li>Box plot.</li>
+<li>Null value.</li>
+<li>Duplicate rows.</li>
+<li>Correlation.</li>
+</ol>
+</td>
+</tr>
+</table>
+<hr>
+<h2 id="data-pre-processing">Data Pre-processing</h2>
+<table>
+<tr>
+<td>
+<ol>
+<li>Data cleaning.</li>
+<li>Label encoding.</li>
+<li>Outlier management.</li>
+</ol>
+</td>
+<td>
+<ol start="4">
+<li>Standardize data.</li>
+<li>Under sampling data.</li>
+<li>Train-Test-Validation split.</li>
+</ol>
+</td>
+</tr>
+</table>
 <hr>
 <h2 id="feature-selection">Feature Selection</h2>
+<p>Eventually, the data scientist will need to determine how helpful a variable is on a larger scale. After preprocessing, the NIDS dataset&rsquo;s more than 40 features were raised to 120. When we explored models without feature selection, we ran into an issue with overfitting. Therefore, we tried feature selection to avoid overfitting and provide more precise findings by removing unimportant features.</p>
+<p>We are selecting features on the basis of three methods:</p>
+<ol>
+<li>Decision Tree</li>
+<li>Recursive Feature Elimination</li>
+<li>Principal Component Analysis</li>
+</ol>
 <hr>
 <h2 id="algorithms">Algorithms</h2>
+<table>
+<tr>
+<td>
+<ol>
+<li>Logistic Regression.</li>
+<li>K Nearest Neighbor.</li>
+<li>Naïve Bayes - Bernoulli &amp; Gaussian.</li>
+</ol>
+</td>
+<td>
+<ol start="4">
+<li>Desicion Tree.</li>
+<li>Random Forest.</li>
+<li>Gradient Boost.</li>
+</ol>
+</td>
+</tr>
+</table>
 <hr>
 <h2 id="evaluation">Evaluation</h2>
+<p>We have used following evaluating terms for the models:</p>
+<table>
+<tr>
+<td>
+<ol>
+<li>Cross Validation Score</li>
+<li>Accuracy</li>
+<li>Confusion Matrix</li>
+</ol>
+</td>
+<td>
+<ol start="4">
+<li>Precision, Recall, F1 Score</li>
+<li>ROC Curve</li>
+<li>Precision Recall Curve</li>
+</ol>
+</td>
+</tr>
+</table>
 <hr>
 <h2 id="deployment">Deployment</h2>
+<p>After evaluating the results of the previously described methods, we settled on the random forest classifier model with decision tree as the feature selection model.</p>
+<p>The pickle file for this model will be used to deploy the Machine Learning model using the flask application.</p>
+<p>This Docker container-based Flask application will be installed on an AWS EC2 instance for easier access for other users.</p>
+<p>The Flask UI will be used to collect the user&rsquo;s input features, process them to produce results, and display the results.</p>
+<hr>
+<h2 id="summary">Summary</h2>
+<ol>
+<li>In this research, we developed a model for categorising data into dichotomous variables based on traffic flow, port numbers, and DNS.</li>
+<li>Data was acquired for model construction from Kaggle.com.</li>
+<li>We removed any null values, outliers, duplicate rows, and columns with a single value from the data.</li>
+<li>On categorical columns, we carried out label encoding.</li>
+<li>After testing various feature selection techniques on the cleaned dataset, we discovered that the feature chosen using the Decision Tree model outperformed the others in the dataset.</li>
+<li>On the cleansed dataset, a dozen alternative models were built. The best models were discovered to be Gradient Boosting Classifier and Random Forest Classifier.</li>
+<li>Created a web application using the Flask framework to make it simple to classify various user inputs using the model.</li>
+<li>Webapp will let the user know what category it belongs to.</li>
+</ol>
+<hr>
+<h2 id="refrences">Refrences</h2>
+<ol>
+<li><a href="https://www.researchgate.net/profile/Mouhammdlkasassbeh/publication/327550168_Machine_Learning_Methods_for_Network_Intrusion_Detection/links/5bb1de70299bf13e605973b9/Machine-Learning-Methods-for-Network-IntrusionDetection.pdf">Machine Learning Methods for Network Intrusion Detection</a>,
+Mouhammd Alkasassbeh, Mohammad Almseidin (2018)</li>
+<li><a href="https://www.researchgate.net/profile/Mrutyunjaya-Panda3/publication/220468036_Network_intrusion_detection_system_A_machine_learning_approach/links/54b9191f0cf269d8cbf730aa/Network-intrusion-detection-system-A-machinelearning-approach.pdf">Network intrusion detection system: A machine learning approach</a>,Mrutyunjaya Panda, Ajith Abraham, Swagatam Das, Manas Ranjan Patra (2011)</li>
+</ol>
+<hr>
+<h2 id="more-details">More Details</h2>
+<ol>
+<li>Source codes - <a href="https://github.com/ronakr14/Network_Intrusion_Detection_System">Network Intrusion Detection System.</a></li>
+<li>Documentation - <a href="https://drive.google.com/file/d/1w4obTmy-HwGQaSg5mshiP84YRcgPp_mr/view?usp=sharing">Network Intrusion Detection System - document file.</a></li>
+</ol>
 
           </article>
         </div>
@@ -376,10 +493,14 @@ Network Intrusion Detection System V0.1 | Ronak Portfolio
     <li><a href="#tools-and-platforms">Tools and Platforms</a></li>
     <li><a href="#data-collection">Data Collection</a></li>
     <li><a href="#exploratory-data-analysis">Exploratory Data Analysis</a></li>
+    <li><a href="#data-pre-processing">Data Pre-processing</a></li>
     <li><a href="#feature-selection">Feature Selection</a></li>
     <li><a href="#algorithms">Algorithms</a></li>
     <li><a href="#evaluation">Evaluation</a></li>
     <li><a href="#deployment">Deployment</a></li>
+    <li><a href="#summary">Summary</a></li>
+    <li><a href="#refrences">Refrences</a></li>
+    <li><a href="#more-details">More Details</a></li>
   </ul>
 </nav>
               </div>
