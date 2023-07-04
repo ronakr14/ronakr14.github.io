@@ -333,7 +333,9 @@ Network Intrusion Detection System V0.1 | Ronak Portfolio
 <p>A special thanks to Satish Kamble.</p>
 <hr>
 <h2 id="abstract">Abstract</h2>
-<p>This machine learning model for binary classification identifies users on our network system and divides them into benign and malignant categories. Every network, whether it is private or public, is vulnerable to assaults that stop the regular flow of traffic on networks, as we all know. The fundamental goal of developing this architecture was to protect both public and private networks while warning the administrator of potential future harm.</p>
+<p style='text-align:justify;'>
+This machine learning model for binary classification identifies users on our network system and divides them into benign and malignant categories. Every network, whether it is private or public, is vulnerable to assaults that stop the regular flow of traffic on networks, as we all know. The fundamental goal of developing this architecture was to protect both public and private networks while warning the administrator of potential future harm.
+</p>
 <hr>
 <h2 id="tools-and-platforms">Tools and Platforms</h2>
 <ul>
@@ -345,9 +347,13 @@ Network Intrusion Detection System V0.1 | Ronak Portfolio
 </ul>
 <hr>
 <h2 id="data-collection">Data Collection</h2>
-<p>An extensive dataset available on kaggle that combines all of the datasets previously described in: <a href="https://staff.itee.uq.edu.au/marius/NIDS_datasets/#RA5">https://staff.itee.uq.edu.au/marius/NIDS_datasets/#RA5</a></p>
-<p>The DoS category&rsquo;s parent name has been given to the assaults formerly known as DoS attacks-Hulk, DoS attacks-SlowHTTPTest, DoS attacks-GoldenEye, and DoS attacks-Slowloris. DDoS has been used to refer to attacks formerly known as DDOS attack-LOIC-UDP, DDOS attack-HOIC, and DDoS attack-LOIC-HTTP. Brute-force attacks include those with the names FTP-BruteForce, SSH-BruteForce, Brute Force -Web, and Brute Force -XSS. Lastly, SQL Injection attacks have been added to the category of injection attacks.</p>
-<p>11,994,893 entries make up the NF-UQ-NIDS dataset, of which 2,786,845 (23.23%) are attacks and 9,208,048 (76.77%) are benign flows.</p>
+<p style='text-align:justify;'>
+An extensive dataset available on kaggle that combines all of the datasets previously described in: https://staff.itee.uq.edu.au/marius/NIDS_datasets/#RA5
+</p>
+<p style='text-align:justify;'>
+The DoS category's parent name has been given to the assaults formerly known as DoS attacks-Hulk, DoS attacks-SlowHTTPTest, DoS attacks-GoldenEye, and DoS attacks-Slowloris. DDoS has been used to refer to attacks formerly known as DDOS attack-LOIC-UDP, DDOS attack-HOIC, and DDoS attack-LOIC-HTTP. Brute-force attacks include those with the names FTP-BruteForce, SSH-BruteForce, Brute Force -Web, and Brute Force -XSS. Lastly, SQL Injection attacks have been added to the category of injection attacks.
+</p>
+11,994,893 entries make up the NF-UQ-NIDS dataset, of which 2,786,845 (23.23%) are attacks and 9,208,048 (76.77%) are benign flows.
 <ul>
 <li>Kaggle Link - <a href="https://www.kaggle.com/datasets/aryashah2k/nfuqnidsv2-network-intrusion-detection-dataset">NF-UQ-NIDS-v2</a></li>
 </ul>
@@ -396,13 +402,13 @@ Network Intrusion Detection System V0.1 | Ronak Portfolio
 </table>
 <hr>
 <h2 id="feature-selection">Feature Selection</h2>
-<p>Eventually, the data scientist will need to determine how helpful a variable is on a larger scale. After preprocessing, the NIDS dataset&rsquo;s more than 40 features were raised to 120. When we explored models without feature selection, we ran into an issue with overfitting. Therefore, we tried feature selection to avoid overfitting and provide more precise findings by removing unimportant features.</p>
-<p>We are selecting features on the basis of three methods:</p>
-<ol>
-<li>Decision Tree</li>
-<li>Recursive Feature Elimination</li>
-<li>Principal Component Analysis</li>
-</ol>
+<p style='text-align:justify;'>
+Eventually, the data scientist will need to determine how helpful a variable is on a larger scale. After preprocessing, the NIDS dataset's more than 40 features were raised to 120. When we explored models without feature selection, we ran into an issue with overfitting. Therefore, we tried feature selection to avoid overfitting and provide more precise findings by removing unimportant features.
+</p>
+We are selecting features on the basis of three methods:
+1. Decision Tree
+2. Recursive Feature Elimination
+3. Principal Component Analysis
 <hr>
 <h2 id="algorithms">Algorithms</h2>
 <table>
@@ -472,7 +478,7 @@ Mouhammd Alkasassbeh, Mohammad Almseidin (2018)</li>
 <hr>
 <h2 id="more-details">More Details</h2>
 <ol>
-<li>Source codes - <a href="https://github.com/ronakr14/Network_Intrusion_Detection_System">Network Intrusion Detection System.</a></li>
+<li>Source code - <a href="https://github.com/ronakr14/Network_Intrusion_Detection_System">Network Intrusion Detection System.</a></li>
 <li>Documentation - <a href="https://drive.google.com/file/d/1w4obTmy-HwGQaSg5mshiP84YRcgPp_mr/view?usp=sharing">Network Intrusion Detection System - document file.</a></li>
 </ol>
 

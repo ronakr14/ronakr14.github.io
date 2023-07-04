@@ -6,7 +6,61 @@
     <description>Recent content in Tags on Ronak Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jun 2023 23:07:27 +0530</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jul 2023 17:11:39 +0530</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation</title>
+      <link>/tags/automation/</link>
+      <pubDate>Mon, 03 Jul 2023 17:11:39 +0530</pubDate>
+      
+      <guid>/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Excel</title>
+      <link>/tags/excel/</link>
+      <pubDate>Mon, 03 Jul 2023 17:11:39 +0530</pubDate>
+      
+      <guid>/tags/excel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outlook</title>
+      <link>/tags/outlook/</link>
+      <pubDate>Mon, 03 Jul 2023 17:11:39 +0530</pubDate>
+      
+      <guid>/tags/outlook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pandas</title>
+      <link>/tags/pandas/</link>
+      <pubDate>Mon, 03 Jul 2023 17:11:39 +0530</pubDate>
+      
+      <guid>/tags/pandas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>/tags/python/</link>
+      <pubDate>Mon, 03 Jul 2023 17:11:39 +0530</pubDate>
+      
+      <guid>/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weekly Tracker</title>
+      <link>/tags/weekly-tracker/</link>
+      <pubDate>Mon, 03 Jul 2023 17:11:39 +0530</pubDate>
+      
+      <guid>/tags/weekly-tracker/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>CouchDB</title>
       <link>/tags/couchdb/</link>
@@ -98,15 +152,6 @@
     </item>
     
     <item>
-      <title>Python</title>
-      <link>/tags/python/</link>
-      <pubDate>Sat, 24 Jun 2023 20:49:17 +0530</pubDate>
-      
-      <guid>/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Supervised Learning</title>
       <link>/tags/supervised-learning/</link>
       <pubDate>Sat, 24 Jun 2023 20:49:17 +0530</pubDate>
@@ -134,20 +179,20 @@
     </item>
     
     <item>
+      <title>CDAC</title>
+      <link>/tags/cdac/</link>
+      <pubDate>Sat, 24 Jun 2023 20:23:04 +0530</pubDate>
+      
+      <guid>/tags/cdac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Coursera</title>
       <link>/tags/coursera/</link>
       <pubDate>Sat, 24 Jun 2023 20:23:04 +0530</pubDate>
       
       <guid>/tags/coursera/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Google</title>
-      <link>/tags/google/</link>
-      <pubDate>Sat, 24 Jun 2023 20:23:04 +0530</pubDate>
-      
-      <guid>/tags/google/</guid>
       <description></description>
     </item>
     

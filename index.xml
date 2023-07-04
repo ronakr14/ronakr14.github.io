@@ -6,7 +6,17 @@
     <description>Recent content on Ronak Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jun 2023 23:07:27 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jul 2023 17:11:39 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weekly Tracker</title>
+      <link>/projects/weeklytracker/</link>
+      <pubDate>Mon, 03 Jul 2023 17:11:39 +0530</pubDate>
+      
+      <guid>/projects/weeklytracker/</guid>
+      <description>Weekly task tracker to keep track of your short- and long-term tasks, as well as the individual projects you have worked on, and to keep your superiors informed via emails. Both personal and professional uses are possible for this.
+Abstract This is a personal project to help you keep track of the tasks you accomplish each day at work, produce historical records from them, and gain insight into how many different tasks you completed over a certain period of time.</description>
+    </item>
+    
     <item>
       <title>Feedback Form</title>
       <link>/extra/feedback_form/</link>
@@ -54,7 +64,8 @@ You may quickly generate this token from your Kaggle account&amp;rsquo;s profile
       <pubDate>Sat, 24 Jun 2023 20:23:04 +0530</pubDate>
       
       <guid>/certificates/</guid>
-      <description>All of the certificates I have earned or intend to earn are included on this page.</description>
+      <description>All of the certificates I have earned or intend to earn are included on this page.
+Snowflake Coursera PyCaret: Anatomy of Regression Machine Learning Pipelines with Azure ML Studio Tesla Stock Price Prediction using Facebook Prophet CDAC PG Diploma in Big Data Analytics </description>
     </item>
     
     <item>

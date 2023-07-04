@@ -28,16 +28,16 @@
 
 
 
-<meta property="og:title" content="Certificates" />
-<meta property="og:description" content="List of my certificates." />
+<meta property="og:title" content="Weekly Tracker" />
+<meta property="og:description" content="Weekly Tracker" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="/certificates/" /><meta property="article:section" content="" />
-<meta property="article:published_time" content="2023-06-24T20:23:04+05:30" />
-<meta property="article:modified_time" content="2023-06-24T20:23:04+05:30" /><meta property="og:site_name" content="Data Science Portfolio" />
+<meta property="og:url" content="/projects/weeklytracker/" /><meta property="article:section" content="Projects" />
+<meta property="article:published_time" content="2023-07-03T17:11:39+05:30" />
+<meta property="article:modified_time" content="2023-07-03T17:11:39+05:30" /><meta property="og:site_name" content="Data Science Portfolio" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Certificates"/>
-<meta name="twitter:description" content="List of my certificates."/>
+<meta name="twitter:title" content="Weekly Tracker"/>
+<meta name="twitter:description" content="Weekly Tracker"/>
 
 
 <link rel="stylesheet" href="/bootstrap-5/css/bootstrap.min.css" media="all"><link rel="stylesheet" href="/css/header.css" media="all">
@@ -101,14 +101,14 @@
     }
 </style>
 
-<meta name="description" content="List of my certificates.">
+<meta name="description" content="Weekly Tracker">
 <link rel="stylesheet" href="/css/single.css">
 
 
 <script defer src="/fontawesome-5/all-5.15.4.js"></script>
 
   <title>
-Certificates | Ronak Portfolio
+Weekly Tracker | Ronak Portfolio
 
   </title>
 </head>
@@ -314,37 +314,123 @@ Certificates | Ronak Portfolio
       <div class="col-sm-12 col-md-12 col-lg-9">
         <div class="pr-lg-4">
           <div class="title mb-5">
-            <h1 class="text-center mb-4">Certificates</h1>
+            <h1 class="text-center mb-4">Weekly Tracker</h1>
             <div class="text-center">
               Ronak Rathore 
               <small>|</small>
-              Jun 24, 2023
+              Jul 3, 2023
 
               
             </div>
           </div>
           
           <div class="featured-image">
-            <img class="img-fluid" src="/certificates/2338571.png" alt="Certificates">
+            <img class="img-fluid" src="/projects/weeklytracker/1.jpg" alt="Weekly Tracker">
           </div>
           
           <article class="page-content  p-2">
-          <p>All of the certificates I have earned or intend to earn are included on this page.</p>
+          <p>Weekly task tracker to keep track of your short- and long-term tasks, as well as the individual projects you have worked on, and to keep your superiors informed via emails. Both personal and professional uses are possible for this.</p>
 <hr>
-<h2 id="snowflake">Snowflake</h2>
+<h2 id="abstract">Abstract</h2>
+<p style='text-align:justify;'>
+This is a personal project to help you keep track of the tasks you accomplish each day at work, produce historical records from them, and gain insight into how many different tasks you completed over a certain period of time. Daily tasks for the current week will be updated, dumped into task history on a weekly basis, and a list of special tasks will be compiled, which will also be completed on a weekly basis. This will then be used to create an outlook email so that you can inform your superiors of your week's activities.
+</p
+><hr>
+<h2 id="tools-and-platforms">Tools and Platforms</h2>
+<ul>
+<li>Language - Python</li>
+<li>Python Libraries - Pandas, Numpy, Openpyxl, Datetime, Configparser, Win32com</li>
+<li>Email - Microsoft Outlook</li>
+<li>Spreadsheet - any</li>
+</ul>
+<hr>
+<h2 id="flowchart">Flowchart</h2>
 <p align="center">
-<img width="200" height=200" src="/certificates/snowflake-sales-professional-accreditation.png">
-<img width="200" height=200" src="/certificates/snowflake-technical-sales-professional-accreditation.png">
+<img src="/projects/weeklytracker/1.png">
 </p>
-<h2 id="coursera">Coursera</h2>
+<hr>
+<h2 id="tracker---excel-file">Tracker - Excel File</h2>
+<p>I&rsquo;m going to maintain my weekly tracker in an excel spreadsheet because it&rsquo;s straightforward and supports python libraries. For the project, we must build an Excel workbook with the following three sheets:<br>
+<em>1. Current_Week</em>
+<br>  This sheet will be updated manually on daily basis after day&rsquo;s work. This will contain fields such as</p>
+<table>
+<thead>
+<tr>
+<th>Fields</th>
+<th>Usage</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Date</td>
+<td>Current date.</td>
+</tr>
+<tr>
+<td>Task</td>
+<td>Task worked on the date.</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Short description of the task.</td>
+</tr>
+<tr>
+<td>Team/Project</td>
+<td>Team or Project name with whom worked.</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>Current status of the task.</td>
+</tr>
+<tr>
+<td>Contact Person</td>
+<td>Person name who provided the task.</td>
+</tr>
+<tr>
+<td>Additional Contact</td>
+<td>Project Manager name, optional field.</td>
+</tr>
+</tbody>
+</table>
+<p><em>2. Work_History</em>
+<br>  This sheet will be updated on weekly basis when the python script is triggered. This will contain all the historical records since this workbook is maintained. Sheet will contain field same as Current_Week sheet.</p>
+<p><em>3. Unique_Task</em>
+<br>  This is maintained to check number of unique task completed. This will contain only three fields as following:</p>
+<table>
+<thead>
+<tr>
+<th>Fields</th>
+<th>Usage</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Start Date</td>
+<td>Date on which task was started.</td>
+</tr>
+<tr>
+<td>Task</td>
+<td>Task.</td>
+</tr>
+<tr>
+<td>Last Worked Date</td>
+<td>Date on which task was last accessed.</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="stages">Stages</h2>
+<p><em>1. Configuration File:</em>
+<br>  This will contain details such as email id list, file details and project details.</p>
+<p><em>2. Generate Outlook Mail:</em>
+<br>   The first step is to create email. Receipents will be retrieved using a configuration file. After renaming it to reflect the current week&rsquo;s start and finish dates, the Current_Week sheet will be attached to emails exactly as it is. Since we are unable to share a single sheet from a workbook for this reason, I am generating a temporary workbook with the file name &ldquo;week_start_date to week_end_date.xlsx,&rdquo; where the week_start_date and week_end_date are fetched using the Current_Week sheet. When an email is sent, this temporary sheet will be attached and then removed.</p>
+<p><em>3. Append Contents to Work_History:</em>
+<br>   The next step is to update the Work_History sheet using the entries from Current_Week. The data from the Current_Week sheet must be processed so that it is consistent with the Work_History sheet because this sheet only has one task per cell. The processing phase entails adding full stops to the ends of phrases, combining several activities into a single task, inserting weekend dates, etc. Depending on how much attention to detail you desire, this is customised. I&rsquo;m keeping this project straightforward. Once the process is complete, the dataframe will be appended to the Work_History tab using the openpyxl library. The Work_History tab is useful for going back over the assignment.</p>
+<p><em>4. Generate Unique Task List:</em>
+<br>   The last step is to make sure you are not repeating task for longer period of times. For this purpose, Unique_Task sheet is created. This sheet will contain all the unique task started by you. This will also contain start date of the task and last worked date of the task. Data in Unique_Task sheet will be truncated and refilled using Work_History tab on weekly basis.</p>
+<hr>
+<h2 id="more-details">More Details</h2>
 <ol>
-<li><a href="https://coursera.org/verify/T9Z9M7WMUS94">PyCaret: Anatomy of Regression</a></li>
-<li><a href="https://coursera.org/share/92d0e0220805ca594fd1c10fb45a6122">Machine Learning Pipelines with Azure ML Studio</a></li>
-<li><a href="https://coursera.org/verify/E4ASQZ8YZTKP">Tesla Stock Price Prediction using Facebook Prophet</a></li>
-</ol>
-<h2 id="cdac">CDAC</h2>
-<ol>
-<li><a href="https://drive.google.com/file/d/19x8RcybI-kSd-j8eUOwUAvfC-XsnKzc2/view?usp=sharing">PG Diploma in Big Data Analytics</a></li>
+<li>source code: <a href="https://github.com/ronakr14/weekly-tracker">Weekly Tracker</a></li>
 </ol>
 
           </article>
@@ -360,9 +446,12 @@ Certificates | Ronak Portfolio
               <div class="toc-content">
                 <nav id="TableOfContents">
   <ul>
-    <li><a href="#snowflake">Snowflake</a></li>
-    <li><a href="#coursera">Coursera</a></li>
-    <li><a href="#cdac">CDAC</a></li>
+    <li><a href="#abstract">Abstract</a></li>
+    <li><a href="#tools-and-platforms">Tools and Platforms</a></li>
+    <li><a href="#flowchart">Flowchart</a></li>
+    <li><a href="#tracker---excel-file">Tracker - Excel File</a></li>
+    <li><a href="#stages">Stages</a></li>
+    <li><a href="#more-details">More Details</a></li>
   </ul>
 </nav>
               </div>
@@ -374,11 +463,17 @@ Certificates | Ronak Portfolio
             <h5>Tags</h5>
             <ul class="tags-ul list-unstyled list-inline">
               
-              <li class="list-inline-item"><a href="tags/snowflake" target="_blank">Snowflake</a></li>
+              <li class="list-inline-item"><a href="tags/weekly-tracker" target="_blank">Weekly Tracker</a></li>
               
-              <li class="list-inline-item"><a href="tags/coursera" target="_blank">Coursera</a></li>
+              <li class="list-inline-item"><a href="tags/python" target="_blank">Python</a></li>
               
-              <li class="list-inline-item"><a href="tags/cdac" target="_blank">CDAC</a></li>
+              <li class="list-inline-item"><a href="tags/excel" target="_blank">Excel</a></li>
+              
+              <li class="list-inline-item"><a href="tags/automation" target="_blank">Automation</a></li>
+              
+              <li class="list-inline-item"><a href="tags/pandas" target="_blank">Pandas</a></li>
+              
+              <li class="list-inline-item"><a href="tags/outlook" target="_blank">Outlook</a></li>
               
             </ul>
           </aside>
@@ -390,17 +485,17 @@ Certificates | Ronak Portfolio
             <div class="social-content">
               <ul class="list-inline">
                 <li class="list-inline-item text-center">
-                  <a target="_blank" href="https://twitter.com/share?text=Certificates&url=%2fcertificates%2f">
+                  <a target="_blank" href="https://twitter.com/share?text=Weekly%20Tracker&url=%2fprojects%2fweeklytracker%2f">
                     <i class="fab fa-twitter"></i>
                   </a>
                 </li>
                 <li class="list-inline-item text-center">
-                  <a target="_blank" href="https://api.whatsapp.com/send?text=Certificates: %2fcertificates%2f">
+                  <a target="_blank" href="https://api.whatsapp.com/send?text=Weekly%20Tracker: %2fprojects%2fweeklytracker%2f">
                     <i class="fab fa-whatsapp"></i>
                   </a>
                 </li>
                 <li class="list-inline-item text-center">
-                  <a target="_blank" href='mailto:?subject=Certificates&amp;body=Check%20out%20this%20site %2fcertificates%2f'>
+                  <a target="_blank" href='mailto:?subject=Weekly%20Tracker&amp;body=Check%20out%20this%20site %2fprojects%2fweeklytracker%2f'>
                     <i class="fa fa-envelope"></i>
                   </a>
                 </li>
