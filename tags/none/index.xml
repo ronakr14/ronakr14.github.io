@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>None on Portfolio</title>
+    <link>http://localhost:1313/tags/none/</link>
+    <description>Recent content in None on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Mar 2024 22:01:11 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/none/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kaggle to Colab</title>
+      <link>http://localhost:1313/blogs/kaggle-to-colab/</link>
+      <pubDate>Tue, 19 Mar 2024 22:01:11 +0530</pubDate>
+      <guid>http://localhost:1313/blogs/kaggle-to-colab/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -2,13 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hugo-profile.netlify.app/</loc>
-    <lastmod>2024-03-19T21:28:57+05:30</lastmod>
+    <loc>https://hugo-profile.netlify.app/blogs/</loc>
+    <lastmod>2024-03-19T22:01:11+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/skills/</loc>
-    <lastmod>2024-03-19T21:28:57+05:30</lastmod>
+    <loc>https://hugo-profile.netlify.app/tags/colab/</loc>
+    <lastmod>2024-03-19T22:01:11+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/tags/kaggle/</loc>
+    <lastmod>2024-03-19T22:01:11+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/blogs/kaggle-to-colab/</loc>
+    <lastmod>2024-03-19T22:01:11+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/</loc>
+    <lastmod>2024-03-19T22:01:11+05:30</lastmod>
   </url><url>
     <loc>https://hugo-profile.netlify.app/tags/</loc>
+    <lastmod>2024-03-19T22:01:11+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/skills/</loc>
     <lastmod>2024-03-19T21:28:57+05:30</lastmod>
   </url><url>
     <loc>https://hugo-profile.netlify.app/tags/technical-skills/</loc>

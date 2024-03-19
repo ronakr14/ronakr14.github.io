@@ -6,8 +6,15 @@
     <description>Recent content on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Mar 2024 21:28:57 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 22:01:11 +0530</lastBuildDate>
     <atom:link href="https://hugo-profile.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kaggle Connectivity to Colab</title>
+      <link>https://hugo-profile.netlify.app/blogs/kaggle-to-colab/</link>
+      <pubDate>Tue, 19 Mar 2024 22:01:11 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/blogs/kaggle-to-colab/</guid>
+      <description>I’ll outline how to upload a Kaggle dataset straight to Google Colab in this article.&#xA;Prerequisite Colab Kaggle Dataset Steps: 1. Choose Dataset Pick the dataset you want to import into CoLab. I will be using Reviews for Hotels Worldwide (Booking.com)&#xA;2. API Token To download a dataset, kaggle services require authentication. You must now download an API token.&#xA;You may quickly generate this token from your Kaggle account’s profile page.</description>
+    </item>
     <item>
       <title>Skills</title>
       <link>https://hugo-profile.netlify.app/skills/</link>
