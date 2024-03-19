@@ -1,218 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Ronak Portfolio</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Ronak Portfolio</description>
+    <title>Tags on Portfolio</title>
+    <link>https://hugo-profile.netlify.app/tags/</link>
+    <description>Recent content in Tags on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jul 2023 17:11:39 +0530</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Automation</title>
-      <link>/tags/automation/</link>
-      <pubDate>Mon, 03 Jul 2023 17:11:39 +0530</pubDate>
-      
-      <guid>/tags/automation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Excel</title>
-      <link>/tags/excel/</link>
-      <pubDate>Mon, 03 Jul 2023 17:11:39 +0530</pubDate>
-      
-      <guid>/tags/excel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Outlook</title>
-      <link>/tags/outlook/</link>
-      <pubDate>Mon, 03 Jul 2023 17:11:39 +0530</pubDate>
-      
-      <guid>/tags/outlook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pandas</title>
-      <link>/tags/pandas/</link>
-      <pubDate>Mon, 03 Jul 2023 17:11:39 +0530</pubDate>
-      
-      <guid>/tags/pandas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>/tags/python/</link>
-      <pubDate>Mon, 03 Jul 2023 17:11:39 +0530</pubDate>
-      
-      <guid>/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Weekly Tracker</title>
-      <link>/tags/weekly-tracker/</link>
-      <pubDate>Mon, 03 Jul 2023 17:11:39 +0530</pubDate>
-      
-      <guid>/tags/weekly-tracker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CouchDB</title>
-      <link>/tags/couchdb/</link>
-      <pubDate>Sat, 24 Jun 2023 23:07:27 +0530</pubDate>
-      
-      <guid>/tags/couchdb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Express.js</title>
-      <link>/tags/express.js/</link>
-      <pubDate>Sat, 24 Jun 2023 23:07:27 +0530</pubDate>
-      
-      <guid>/tags/express.js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JavaScript</title>
-      <link>/tags/javascript/</link>
-      <pubDate>Sat, 24 Jun 2023 23:07:27 +0530</pubDate>
-      
-      <guid>/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Node.js</title>
-      <link>/tags/node.js/</link>
-      <pubDate>Sat, 24 Jun 2023 23:07:27 +0530</pubDate>
-      
-      <guid>/tags/node.js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AWS EC2</title>
-      <link>/tags/aws-ec2/</link>
-      <pubDate>Sat, 24 Jun 2023 20:49:17 +0530</pubDate>
-      
-      <guid>/tags/aws-ec2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Classification</title>
-      <link>/tags/classification/</link>
-      <pubDate>Sat, 24 Jun 2023 20:49:17 +0530</pubDate>
-      
-      <guid>/tags/classification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Docker</title>
-      <link>/tags/docker/</link>
-      <pubDate>Sat, 24 Jun 2023 20:49:17 +0530</pubDate>
-      
-      <guid>/tags/docker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Intruder Detection</title>
-      <link>/tags/intruder-detection/</link>
-      <pubDate>Sat, 24 Jun 2023 20:49:17 +0530</pubDate>
-      
-      <guid>/tags/intruder-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>/tags/machine-learning/</link>
-      <pubDate>Sat, 24 Jun 2023 20:49:17 +0530</pubDate>
-      
-      <guid>/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Network Detection</title>
-      <link>/tags/network-detection/</link>
-      <pubDate>Sat, 24 Jun 2023 20:49:17 +0530</pubDate>
-      
-      <guid>/tags/network-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Supervised Learning</title>
-      <link>/tags/supervised-learning/</link>
-      <pubDate>Sat, 24 Jun 2023 20:49:17 +0530</pubDate>
-      
-      <guid>/tags/supervised-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Colab</title>
-      <link>/tags/colab/</link>
-      <pubDate>Sat, 24 Jun 2023 20:48:43 +0530</pubDate>
-      
-      <guid>/tags/colab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kaggle</title>
-      <link>/tags/kaggle/</link>
-      <pubDate>Sat, 24 Jun 2023 20:48:43 +0530</pubDate>
-      
-      <guid>/tags/kaggle/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 19 Mar 2024 16:49:40 +0530</lastBuildDate>
+    <atom:link href="https://hugo-profile.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CDAC</title>
-      <link>/tags/cdac/</link>
-      <pubDate>Sat, 24 Jun 2023 20:23:04 +0530</pubDate>
-      
-      <guid>/tags/cdac/</guid>
+      <link>https://hugo-profile.netlify.app/tags/cdac/</link>
+      <pubDate>Tue, 19 Mar 2024 16:49:40 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/cdac/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Coursera</title>
-      <link>/tags/coursera/</link>
-      <pubDate>Sat, 24 Jun 2023 20:23:04 +0530</pubDate>
-      
-      <guid>/tags/coursera/</guid>
+      <link>https://hugo-profile.netlify.app/tags/coursera/</link>
+      <pubDate>Tue, 19 Mar 2024 16:49:40 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/coursera/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Snowflake</title>
-      <link>/tags/snowflake/</link>
-      <pubDate>Sat, 24 Jun 2023 20:23:04 +0530</pubDate>
-      
-      <guid>/tags/snowflake/</guid>
+      <link>https://hugo-profile.netlify.app/tags/snowflake/</link>
+      <pubDate>Tue, 19 Mar 2024 16:49:40 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/snowflake/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Technical Skills</title>
-      <link>/tags/technical-skills/</link>
-      <pubDate>Fri, 23 Jun 2023 08:44:35 +0530</pubDate>
-      
-      <guid>/tags/technical-skills/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
