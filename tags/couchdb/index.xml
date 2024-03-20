@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CouchDB on Ronak Portfolio</title>
-    <link>/tags/couchdb/</link>
-    <description>Recent content in CouchDB on Ronak Portfolio</description>
+    <title>CouchDB on Portfolio</title>
+    <link>https://hugo-profile.netlify.app/tags/couchdb/</link>
+    <description>Recent content in CouchDB on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jun 2023 23:07:27 +0530</lastBuildDate><atom:link href="/tags/couchdb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Mar 2024 22:51:29 +0530</lastBuildDate>
+    <atom:link href="https://hugo-profile.netlify.app/tags/couchdb/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Feedback Form</title>
-      <link>/extra/feedback_form/</link>
-      <pubDate>Sat, 24 Jun 2023 23:07:27 +0530</pubDate>
-      
-      <guid>/extra/feedback_form/</guid>
-      <description>This article will be published soon…</description>
+      <title>Feedback</title>
+      <link>https://hugo-profile.netlify.app/extra/feedback/</link>
+      <pubDate>Wed, 20 Mar 2024 22:51:29 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/extra/feedback/</guid>
+      <description>This article will be published soon &amp;hellip;</description>
     </item>
-    
   </channel>
 </rss>

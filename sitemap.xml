@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hugo-profile.netlify.app/tags/couchdb/</loc>
+    <lastmod>2024-03-20T22:51:29+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/tags/docker/</loc>
+    <lastmod>2024-03-20T22:51:29+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/tags/expressjs/</loc>
+    <lastmod>2024-03-20T22:51:29+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/extra/</loc>
+    <lastmod>2024-03-20T22:51:29+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/extra/feedback/</loc>
+    <lastmod>2024-03-20T22:51:29+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/tags/javascript/</loc>
+    <lastmod>2024-03-20T22:51:29+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/tags/nodejs/</loc>
+    <lastmod>2024-03-20T22:51:29+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/</loc>
+    <lastmod>2024-03-20T22:51:29+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/tags/</loc>
+    <lastmod>2024-03-20T22:51:29+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/gallery/</loc>
+    <lastmod>2024-03-20T22:43:59+05:30</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/projects/</loc>
+    <lastmod>2024-03-20T22:39:26+05:30</lastmod>
+  </url><url>
     <loc>https://hugo-profile.netlify.app/blogs/</loc>
     <lastmod>2024-03-19T22:01:11+05:30</lastmod>
   </url><url>
@@ -12,12 +45,6 @@
     <lastmod>2024-03-19T22:01:11+05:30</lastmod>
   </url><url>
     <loc>https://hugo-profile.netlify.app/blogs/kaggle-to-colab/</loc>
-    <lastmod>2024-03-19T22:01:11+05:30</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/</loc>
-    <lastmod>2024-03-19T22:01:11+05:30</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/</loc>
     <lastmod>2024-03-19T22:01:11+05:30</lastmod>
   </url><url>
     <loc>https://hugo-profile.netlify.app/skills/</loc>
