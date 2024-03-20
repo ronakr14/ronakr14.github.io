@@ -16,13 +16,6 @@
       <description></description>
     </item>
     <item>
-      <title>Docker</title>
-      <link>https://hugo-profile.netlify.app/tags/docker/</link>
-      <pubDate>Wed, 20 Mar 2024 22:51:29 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/docker/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>ExpressJS</title>
       <link>https://hugo-profile.netlify.app/tags/expressjs/</link>
       <pubDate>Wed, 20 Mar 2024 22:51:29 +0530</pubDate>
@@ -41,6 +34,62 @@
       <link>https://hugo-profile.netlify.app/tags/nodejs/</link>
       <pubDate>Wed, 20 Mar 2024 22:51:29 +0530</pubDate>
       <guid>https://hugo-profile.netlify.app/tags/nodejs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AWS EC2</title>
+      <link>https://hugo-profile.netlify.app/tags/aws-ec2/</link>
+      <pubDate>Wed, 20 Mar 2024 22:39:26 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/aws-ec2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Classification</title>
+      <link>https://hugo-profile.netlify.app/tags/classification/</link>
+      <pubDate>Wed, 20 Mar 2024 22:39:26 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/classification/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>https://hugo-profile.netlify.app/tags/docker/</link>
+      <pubDate>Wed, 20 Mar 2024 22:39:26 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intruder Detection</title>
+      <link>https://hugo-profile.netlify.app/tags/intruder-detection/</link>
+      <pubDate>Wed, 20 Mar 2024 22:39:26 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/intruder-detection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>https://hugo-profile.netlify.app/tags/machine-learning/</link>
+      <pubDate>Wed, 20 Mar 2024 22:39:26 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network Detection</title>
+      <link>https://hugo-profile.netlify.app/tags/network-detection/</link>
+      <pubDate>Wed, 20 Mar 2024 22:39:26 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/network-detection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://hugo-profile.netlify.app/tags/python/</link>
+      <pubDate>Wed, 20 Mar 2024 22:39:26 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Supervised Learning</title>
+      <link>https://hugo-profile.netlify.app/tags/supervised-learning/</link>
+      <pubDate>Wed, 20 Mar 2024 22:39:26 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/supervised-learning/</guid>
       <description></description>
     </item>
     <item>
