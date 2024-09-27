@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Extra on Portfolio</title>
-    <link>https://hugo-profile.netlify.app/extra/</link>
+    <link>https://ronakr14.github.io/extra/</link>
     <description>Recent content in Extra on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Mar 2024 22:51:29 +0530</lastBuildDate>
-    <atom:link href="https://hugo-profile.netlify.app/extra/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ronakr14.github.io/extra/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Feedback Form</title>
-      <link>https://hugo-profile.netlify.app/extra/feedback/</link>
+      <link>https://ronakr14.github.io/extra/feedback/</link>
       <pubDate>Wed, 20 Mar 2024 22:51:29 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/extra/feedback/</guid>
+      <guid>https://ronakr14.github.io/extra/feedback/</guid>
       <description>This article will be published soon &amp;hellip;</description>
     </item>
   </channel>

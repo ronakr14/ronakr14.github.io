@@ -2,93 +2,99 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hugo-profile.netlify.app/tags/couchdb/</loc>
+    <loc>https://ronakr14.github.io/blogs/</loc>
+    <lastmod>2024-09-27T22:01:11+05:30</lastmod>
+  </url><url>
+    <loc>https://ronakr14.github.io/blogs/python/introduction-to-python-metaclasses/</loc>
+    <lastmod>2024-09-27T22:01:11+05:30</lastmod>
+  </url><url>
+    <loc>https://ronakr14.github.io/tags/metaclass/</loc>
+    <lastmod>2024-09-27T22:01:11+05:30</lastmod>
+  </url><url>
+    <loc>https://ronakr14.github.io/</loc>
+    <lastmod>2024-09-27T22:01:11+05:30</lastmod>
+  </url><url>
+    <loc>https://ronakr14.github.io/tags/python/</loc>
+    <lastmod>2024-09-27T22:01:11+05:30</lastmod>
+  </url><url>
+    <loc>https://ronakr14.github.io/tags/</loc>
+    <lastmod>2024-09-27T22:01:11+05:30</lastmod>
+  </url><url>
+    <loc>https://ronakr14.github.io/tags/couchdb/</loc>
     <lastmod>2024-03-20T22:51:29+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/expressjs/</loc>
+    <loc>https://ronakr14.github.io/tags/expressjs/</loc>
     <lastmod>2024-03-20T22:51:29+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/extra/</loc>
+    <loc>https://ronakr14.github.io/extra/</loc>
     <lastmod>2024-03-20T22:51:29+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/extra/feedback/</loc>
+    <loc>https://ronakr14.github.io/extra/feedback/</loc>
     <lastmod>2024-03-20T22:51:29+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/javascript/</loc>
+    <loc>https://ronakr14.github.io/tags/javascript/</loc>
     <lastmod>2024-03-20T22:51:29+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/nodejs/</loc>
+    <loc>https://ronakr14.github.io/tags/nodejs/</loc>
     <lastmod>2024-03-20T22:51:29+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/</loc>
-    <lastmod>2024-03-20T22:51:29+05:30</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/</loc>
-    <lastmod>2024-03-20T22:51:29+05:30</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/gallery/</loc>
+    <loc>https://ronakr14.github.io/gallery/</loc>
     <lastmod>2024-03-20T22:43:59+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/aws-ec2/</loc>
+    <loc>https://ronakr14.github.io/tags/aws-ec2/</loc>
     <lastmod>2024-03-20T22:39:26+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/classification/</loc>
+    <loc>https://ronakr14.github.io/tags/classification/</loc>
     <lastmod>2024-03-20T22:39:26+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/docker/</loc>
+    <loc>https://ronakr14.github.io/tags/docker/</loc>
     <lastmod>2024-03-20T22:39:26+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/intruder-detection/</loc>
+    <loc>https://ronakr14.github.io/tags/intruder-detection/</loc>
     <lastmod>2024-03-20T22:39:26+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/machine-learning/</loc>
+    <loc>https://ronakr14.github.io/tags/machine-learning/</loc>
     <lastmod>2024-03-20T22:39:26+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/network-detection/</loc>
+    <loc>https://ronakr14.github.io/tags/network-detection/</loc>
     <lastmod>2024-03-20T22:39:26+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/projects/nids/</loc>
+    <loc>https://ronakr14.github.io/projects/nids/</loc>
     <lastmod>2024-03-20T22:39:26+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/projects/</loc>
+    <loc>https://ronakr14.github.io/projects/</loc>
     <lastmod>2024-03-20T22:39:26+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/python/</loc>
+    <loc>https://ronakr14.github.io/tags/supervised-learning/</loc>
     <lastmod>2024-03-20T22:39:26+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/supervised-learning/</loc>
-    <lastmod>2024-03-20T22:39:26+05:30</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/blogs/</loc>
+    <loc>https://ronakr14.github.io/tags/colab/</loc>
     <lastmod>2024-03-19T22:01:11+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/colab/</loc>
+    <loc>https://ronakr14.github.io/tags/kaggle/</loc>
     <lastmod>2024-03-19T22:01:11+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/kaggle/</loc>
+    <loc>https://ronakr14.github.io/blogs/kaggle-to-colab/</loc>
     <lastmod>2024-03-19T22:01:11+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/blogs/kaggle-to-colab/</loc>
-    <lastmod>2024-03-19T22:01:11+05:30</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/skills/</loc>
+    <loc>https://ronakr14.github.io/skills/</loc>
     <lastmod>2024-03-19T21:28:57+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/technical-skills/</loc>
+    <loc>https://ronakr14.github.io/tags/technical-skills/</loc>
     <lastmod>2024-03-19T21:28:57+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/cdac/</loc>
+    <loc>https://ronakr14.github.io/tags/cdac/</loc>
     <lastmod>2024-03-19T16:49:40+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/certificates/</loc>
+    <loc>https://ronakr14.github.io/certificates/</loc>
     <lastmod>2024-03-19T16:49:40+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/coursera/</loc>
+    <loc>https://ronakr14.github.io/tags/coursera/</loc>
     <lastmod>2024-03-19T16:49:40+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/snowflake/</loc>
+    <loc>https://ronakr14.github.io/tags/snowflake/</loc>
     <lastmod>2024-03-19T16:49:40+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/categories/</loc>
+    <loc>https://ronakr14.github.io/categories/</loc>
   </url>
 </urlset>

@@ -2,136 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Portfolio</title>
-    <link>https://hugo-profile.netlify.app/tags/</link>
+    <link>https://ronakr14.github.io/tags/</link>
     <description>Recent content in Tags on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Mar 2024 22:51:29 +0530</lastBuildDate>
-    <atom:link href="https://hugo-profile.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Sep 2024 22:01:11 +0530</lastBuildDate>
+    <atom:link href="https://ronakr14.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CouchDB</title>
-      <link>https://hugo-profile.netlify.app/tags/couchdb/</link>
-      <pubDate>Wed, 20 Mar 2024 22:51:29 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/couchdb/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ExpressJS</title>
-      <link>https://hugo-profile.netlify.app/tags/expressjs/</link>
-      <pubDate>Wed, 20 Mar 2024 22:51:29 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/expressjs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>JavaScript</title>
-      <link>https://hugo-profile.netlify.app/tags/javascript/</link>
-      <pubDate>Wed, 20 Mar 2024 22:51:29 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/javascript/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>NodeJS</title>
-      <link>https://hugo-profile.netlify.app/tags/nodejs/</link>
-      <pubDate>Wed, 20 Mar 2024 22:51:29 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/nodejs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AWS EC2</title>
-      <link>https://hugo-profile.netlify.app/tags/aws-ec2/</link>
-      <pubDate>Wed, 20 Mar 2024 22:39:26 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/aws-ec2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Classification</title>
-      <link>https://hugo-profile.netlify.app/tags/classification/</link>
-      <pubDate>Wed, 20 Mar 2024 22:39:26 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/classification/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Docker</title>
-      <link>https://hugo-profile.netlify.app/tags/docker/</link>
-      <pubDate>Wed, 20 Mar 2024 22:39:26 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/docker/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Intruder Detection</title>
-      <link>https://hugo-profile.netlify.app/tags/intruder-detection/</link>
-      <pubDate>Wed, 20 Mar 2024 22:39:26 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/intruder-detection/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Machine Learning</title>
-      <link>https://hugo-profile.netlify.app/tags/machine-learning/</link>
-      <pubDate>Wed, 20 Mar 2024 22:39:26 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Network Detection</title>
-      <link>https://hugo-profile.netlify.app/tags/network-detection/</link>
-      <pubDate>Wed, 20 Mar 2024 22:39:26 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/network-detection/</guid>
+      <title>Metaclass</title>
+      <link>https://ronakr14.github.io/tags/metaclass/</link>
+      <pubDate>Fri, 27 Sep 2024 22:01:11 +0530</pubDate>
+      <guid>https://ronakr14.github.io/tags/metaclass/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://hugo-profile.netlify.app/tags/python/</link>
+      <link>https://ronakr14.github.io/tags/python/</link>
+      <pubDate>Fri, 27 Sep 2024 22:01:11 +0530</pubDate>
+      <guid>https://ronakr14.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CouchDB</title>
+      <link>https://ronakr14.github.io/tags/couchdb/</link>
+      <pubDate>Wed, 20 Mar 2024 22:51:29 +0530</pubDate>
+      <guid>https://ronakr14.github.io/tags/couchdb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ExpressJS</title>
+      <link>https://ronakr14.github.io/tags/expressjs/</link>
+      <pubDate>Wed, 20 Mar 2024 22:51:29 +0530</pubDate>
+      <guid>https://ronakr14.github.io/tags/expressjs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>https://ronakr14.github.io/tags/javascript/</link>
+      <pubDate>Wed, 20 Mar 2024 22:51:29 +0530</pubDate>
+      <guid>https://ronakr14.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NodeJS</title>
+      <link>https://ronakr14.github.io/tags/nodejs/</link>
+      <pubDate>Wed, 20 Mar 2024 22:51:29 +0530</pubDate>
+      <guid>https://ronakr14.github.io/tags/nodejs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AWS EC2</title>
+      <link>https://ronakr14.github.io/tags/aws-ec2/</link>
       <pubDate>Wed, 20 Mar 2024 22:39:26 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/python/</guid>
+      <guid>https://ronakr14.github.io/tags/aws-ec2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Classification</title>
+      <link>https://ronakr14.github.io/tags/classification/</link>
+      <pubDate>Wed, 20 Mar 2024 22:39:26 +0530</pubDate>
+      <guid>https://ronakr14.github.io/tags/classification/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>https://ronakr14.github.io/tags/docker/</link>
+      <pubDate>Wed, 20 Mar 2024 22:39:26 +0530</pubDate>
+      <guid>https://ronakr14.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intruder Detection</title>
+      <link>https://ronakr14.github.io/tags/intruder-detection/</link>
+      <pubDate>Wed, 20 Mar 2024 22:39:26 +0530</pubDate>
+      <guid>https://ronakr14.github.io/tags/intruder-detection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>https://ronakr14.github.io/tags/machine-learning/</link>
+      <pubDate>Wed, 20 Mar 2024 22:39:26 +0530</pubDate>
+      <guid>https://ronakr14.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network Detection</title>
+      <link>https://ronakr14.github.io/tags/network-detection/</link>
+      <pubDate>Wed, 20 Mar 2024 22:39:26 +0530</pubDate>
+      <guid>https://ronakr14.github.io/tags/network-detection/</guid>
       <description></description>
     </item>
     <item>
       <title>Supervised Learning</title>
-      <link>https://hugo-profile.netlify.app/tags/supervised-learning/</link>
+      <link>https://ronakr14.github.io/tags/supervised-learning/</link>
       <pubDate>Wed, 20 Mar 2024 22:39:26 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/supervised-learning/</guid>
+      <guid>https://ronakr14.github.io/tags/supervised-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Colab</title>
-      <link>https://hugo-profile.netlify.app/tags/colab/</link>
+      <link>https://ronakr14.github.io/tags/colab/</link>
       <pubDate>Tue, 19 Mar 2024 22:01:11 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/colab/</guid>
+      <guid>https://ronakr14.github.io/tags/colab/</guid>
       <description></description>
     </item>
     <item>
       <title>Kaggle</title>
-      <link>https://hugo-profile.netlify.app/tags/kaggle/</link>
+      <link>https://ronakr14.github.io/tags/kaggle/</link>
       <pubDate>Tue, 19 Mar 2024 22:01:11 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/kaggle/</guid>
+      <guid>https://ronakr14.github.io/tags/kaggle/</guid>
       <description></description>
     </item>
     <item>
       <title>Technical Skills</title>
-      <link>https://hugo-profile.netlify.app/tags/technical-skills/</link>
+      <link>https://ronakr14.github.io/tags/technical-skills/</link>
       <pubDate>Tue, 19 Mar 2024 21:28:57 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/technical-skills/</guid>
+      <guid>https://ronakr14.github.io/tags/technical-skills/</guid>
       <description></description>
     </item>
     <item>
       <title>CDAC</title>
-      <link>https://hugo-profile.netlify.app/tags/cdac/</link>
+      <link>https://ronakr14.github.io/tags/cdac/</link>
       <pubDate>Tue, 19 Mar 2024 16:49:40 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/cdac/</guid>
+      <guid>https://ronakr14.github.io/tags/cdac/</guid>
       <description></description>
     </item>
     <item>
       <title>Coursera</title>
-      <link>https://hugo-profile.netlify.app/tags/coursera/</link>
+      <link>https://ronakr14.github.io/tags/coursera/</link>
       <pubDate>Tue, 19 Mar 2024 16:49:40 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/coursera/</guid>
+      <guid>https://ronakr14.github.io/tags/coursera/</guid>
       <description></description>
     </item>
     <item>
       <title>Snowflake</title>
-      <link>https://hugo-profile.netlify.app/tags/snowflake/</link>
+      <link>https://ronakr14.github.io/tags/snowflake/</link>
       <pubDate>Tue, 19 Mar 2024 16:49:40 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/tags/snowflake/</guid>
+      <guid>https://ronakr14.github.io/tags/snowflake/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Certificates on Portfolio</title>
-    <link>https://hugo-profile.netlify.app/certificates/</link>
+    <link>https://ronakr14.github.io/certificates/</link>
     <description>Recent content in Certificates on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://hugo-profile.netlify.app/certificates/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ronakr14.github.io/certificates/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
