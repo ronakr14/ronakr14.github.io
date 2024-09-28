@@ -6,8 +6,15 @@
     <description>Recent content in Blogs on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Sep 2024 22:01:11 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 11:02:48 +0530</lastBuildDate>
     <atom:link href="https://ronakr14.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git for Non-Coders</title>
+      <link>https://ronakr14.github.io/blogs/git/git_for_no_coders/</link>
+      <pubDate>Sat, 28 Sep 2024 11:02:48 +0530</pubDate>
+      <guid>https://ronakr14.github.io/blogs/git/git_for_no_coders/</guid>
+      <description>Git for Non-Coders: Using Git in Documentation, Design, and Content Management Introduction&#xA;When most people hear &amp;ldquo;Git,&amp;rdquo; they think of developers and coding. However, Git isn&amp;rsquo;t just for programmers; it&amp;rsquo;s a powerful tool for anyone working in teams, including writers, designers, and marketing professionals. Whether you&amp;rsquo;re managing documentation, collaborating on design assets, or keeping track of content, Git offers an efficient way to handle version control and collaboration.&#xA;In this blog, we&amp;rsquo;ll explore how Git can benefit non-coders by focusing on three key areas: documentation, design, and content management.</description>
+    </item>
     <item>
       <title>Introduction to Python Metaclasses</title>
       <link>https://ronakr14.github.io/blogs/python/introduction-to-python-metaclasses/</link>
