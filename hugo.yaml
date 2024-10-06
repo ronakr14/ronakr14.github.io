@@ -42,7 +42,7 @@ Menus:
     - identifier: notes
       name: Notes
       title: Notes
-      url: https://ronakr14.github.io/Collectives/
+      url: https://ronakr14.github.io/My-Notes/
       weight: 4
     - identifier: certificate
       name: Certificate
