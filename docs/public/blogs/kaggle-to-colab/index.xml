@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaggle Connectivity to Colab on Portfolio</title>
+    <link>https://ronakr14.github.io/blogs/kaggle-to-colab/</link>
+    <description>Recent content in Kaggle Connectivity to Colab on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://ronakr14.github.io/blogs/kaggle-to-colab/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

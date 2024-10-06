@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coursera on Portfolio</title>
+    <link>https://ronakr14.github.io/tags/coursera/</link>
+    <description>Recent content in Coursera on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Mar 2024 16:49:40 +0530</lastBuildDate>
+    <atom:link href="https://ronakr14.github.io/tags/coursera/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Certificates</title>
+      <link>https://ronakr14.github.io/certificates/</link>
+      <pubDate>Tue, 19 Mar 2024 16:49:40 +0530</pubDate>
+      <guid>https://ronakr14.github.io/certificates/</guid>
+      <description>All of the certificates I have earned or intend to earn are included on this page.&#xA;Snowflake Coursera PyCaret: Anatomy of Regression Machine Learning Pipelines with Azure ML Studio Tesla Stock Price Prediction using Facebook Prophet CDAC PG Diploma in Big Data Analytics </description>
+    </item>
+  </channel>
+</rss>
