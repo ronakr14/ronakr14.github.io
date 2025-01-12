@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Colab on Ronak Rathore</title>
+    <link>https://ronakr14.github.io/tags/colab/</link>
+    <description>Recent content in Colab on Ronak Rathore</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jan 2025 18:35:41 +0530</lastBuildDate>
+    <atom:link href="https://ronakr14.github.io/tags/colab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kaggle Connectivity to Colab</title>
+      <link>https://ronakr14.github.io/blogs/kaggle_colab/</link>
+      <pubDate>Sat, 11 Jan 2025 18:35:41 +0530</pubDate>
+      <guid>https://ronakr14.github.io/blogs/kaggle_colab/</guid>
+      <description>&lt;p&gt;In this article, I will provide a detailed guide on how to upload a Kaggle dataset directly to Google Colab. This process simplifies data access, allowing users to seamlessly integrate Kaggle datasets into their Colab notebooks for analysis, machine learning, or data engineering tasks.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;prerequisite&#34;&gt;Prerequisite&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Colab&lt;/li&gt;&#xA;&lt;li&gt;Kaggle Dataset&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;steps&#34;&gt;Steps:&lt;/h3&gt;&#xA;&lt;h4 id=&#34;1-choose-dataset&#34;&gt;1. Choose Dataset&lt;/h4&gt;&#xA;&lt;p&gt;Pick the dataset you want to import into CoLab. I will be using Reviews for Hotels Worldwide (Booking.com)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

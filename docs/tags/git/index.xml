@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIT on Ronak Rathore</title>
+    <link>https://ronakr14.github.io/tags/git/</link>
+    <description>Recent content in GIT on Ronak Rathore</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jan 2025 18:36:19 +0530</lastBuildDate>
+    <atom:link href="https://ronakr14.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git for Non-Coders</title>
+      <link>https://ronakr14.github.io/blogs/git_noncoders/</link>
+      <pubDate>Sat, 11 Jan 2025 18:36:19 +0530</pubDate>
+      <guid>https://ronakr14.github.io/blogs/git_noncoders/</guid>
+      <description>&lt;p&gt;Using Git in Documentation, Design, and Content Management&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;When most people hear “Git,” they think of developers and coding. However, Git isn’t just for programmers; it’s a powerful tool for anyone working in teams, including writers, designers, and marketing professionals. Whether you’re managing documentation, collaborating on design assets, or keeping track of content, Git offers an efficient way to handle version control and collaboration.&lt;/p&gt;&#xA;&lt;p&gt;In this blog, we’ll explore how Git can benefit non-coders by focusing on three key areas: documentation, design, and content management.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

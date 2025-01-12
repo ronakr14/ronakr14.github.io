@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metaclass on Ronak Rathore</title>
+    <link>https://ronakr14.github.io/tags/metaclass/</link>
+    <description>Recent content in Metaclass on Ronak Rathore</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jan 2025 18:36:10 +0530</lastBuildDate>
+    <atom:link href="https://ronakr14.github.io/tags/metaclass/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Python Metaclasses</title>
+      <link>https://ronakr14.github.io/blogs/python_metaclass/</link>
+      <pubDate>Sat, 11 Jan 2025 18:36:10 +0530</pubDate>
+      <guid>https://ronakr14.github.io/blogs/python_metaclass/</guid>
+      <description>&lt;h2 id=&#34;introduction-to-python-metaclasses&#34;&gt;Introduction to Python Metaclasses&lt;/h2&gt;&#xA;&lt;p&gt;Metaclasses are an advanced and somewhat lesser-known feature in Python, but they hold immense power. In essence, metaclasses are the classes of classes. They define how classes behave, just as classes define how instances behave. While regular classes in Python are blueprints for creating objects, metaclasses are blueprints for creating classes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-use-metaclasses&#34;&gt;Why Use Metaclasses?&lt;/h2&gt;&#xA;&lt;p&gt;You might ask: Why do we need a class for a class? Metaclasses allow for customization of class creation. By using them, you can:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
